@@ -1,0 +1,2 @@
+# EstudosPython
+ Exercícios em Python
